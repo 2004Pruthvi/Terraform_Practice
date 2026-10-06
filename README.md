@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository demonstrates foundational **Infrastructure as Code (IaC)** implementations using **HashiCorp Terraform** targeting **Amazon Web Services (AWS)**. It covers resource declaration, variable parameterization (`variables.tf`), environment overrides (`terraform.tfvars`), state tracking, and output exports.
 
 ---
 
-## 🏗️ Architecture & Resources
+## Architecture & Resources
 
 ```mermaid
 flowchart LR
@@ -28,7 +28,7 @@ flowchart LR
 
 ---
 
-## 📂 Laboratory Structure
+## Laboratory Structure
 
 ```text
 .
@@ -41,7 +41,7 @@ flowchart LR
 
 ---
 
-## 🚀 Execution Workflow
+## Execution Workflow
 
 ```bash
 # 1. Initialize working directory & download AWS provider plugins
